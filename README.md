@@ -108,12 +108,3 @@ The AI algorithms analyze user preferences and travel history to suggest destina
 </div>
 <br/><br/>
 
-<div>
-  ## 📧 Contact<br/>
-
-For any inquiries, please reach out to [arpitaroysjpr@gmail.com](arpitaroysjpr@gmail.com).<br/>
-or contact via WhatsApp at +91 8441883324.
-
----
-
-</div>
